@@ -1,0 +1,59 @@
+﻿@model List<Code.Models.Product>
+
+@{
+    ViewData["Title"] = "Products List";
+}
+
+<style>
+    .Header {
+        background-color: darkcyan;
+        margin: 0;
+        padding: 0;
+    }
+</style>
+
+<div class="card shadow border-0 Header ">
+    <div class="card-header">
+        <div class="col-12 text-center">
+            <h2 class="text-white py-2">Product List</h2>
+        </div>
+    </div>
+    <div class="card-body p-1 border-1">
+        <div class="d-grid gap-2 d-md-block">
+            <a asp-controller="Library" asp-action="Create" class="btn btn-primary btn-lg">
+                Create New Product
+            </a>
+            <a asp-controller="Library" asp-action="GetAll" class="btn btn-primary btn-lg">All Products</a>
+        </div>
+    </div>
+    <table class="table align-items-center align-text-top table-info table-striped table-hover shadow border-2">
+        <thead>
+            <tr>
+                <th scope="col">Product Id</th>
+                <th scope="col">Title</th>
+                <th scope="col">Description</th>
+                <th scope="col">Price List</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var obj in Model.OrderBy(u => u.Id))
+            {
+                <tr class="mt-4 align-items-center">
+                    <th scope="row">@obj.Id</th>
+                    <td>@obj.Title</td>
+                    <td>@obj.Description</td>
+                    <td>@obj.ListPrice</td>
+                    <td>
+                        <div class="d-grid gap-2 d-md-block">
+                            <a asp-controller="Library" asp-action="Edit" asp-route-id="@obj.Id" class="btn btn-primary">Edit</a>
+                            <a asp-controller="Library" asp-action="Delete" asp-route-id="@obj.Id" class="btn btn-danger">Delete</a>
+                        </div>
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+

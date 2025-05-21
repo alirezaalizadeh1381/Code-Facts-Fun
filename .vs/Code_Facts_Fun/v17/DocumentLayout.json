@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E82FBF0-5D48-4F7E-A05C-C7FB1B050BDB}|Code_Facts_Fun\\Code_Facts_Fun.csproj|c:\\users\\loq\\onedrive\\desktop\\code-facts-fun\\code_facts_fun\\areas\\admin\\views\\library\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E82FBF0-5D48-4F7E-A05C-C7FB1B050BDB}|Code_Facts_Fun\\Code_Facts_Fun.csproj|solutionrelative:code_facts_fun\\areas\\admin\\views\\library\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3E3434-D16F-42B1-9C86-273C491D436C}|Code.Models\\Code.Models.csproj|c:\\users\\loq\\onedrive\\desktop\\code-facts-fun\\code.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3E3434-D16F-42B1-9C86-273C491D436C}|Code.Models\\Code.Models.csproj|solutionrelative:code.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E82FBF0-5D48-4F7E-A05C-C7FB1B050BDB}|Code_Facts_Fun\\Code_Facts_Fun.csproj|c:\\users\\loq\\onedrive\\desktop\\code-facts-fun\\code_facts_fun\\areas\\admin\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E82FBF0-5D48-4F7E-A05C-C7FB1B050BDB}|Code_Facts_Fun\\Code_Facts_Fun.csproj|solutionrelative:code_facts_fun\\areas\\admin\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD139511-BBF5-4D79-912C-8D2C82CC884B}|Code.DataAccess\\Code.DataAccess.csproj|c:\\users\\loq\\onedrive\\desktop\\code-facts-fun\\code.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD139511-BBF5-4D79-912C-8D2C82CC884B}|Code.DataAccess\\Code.DataAccess.csproj|solutionrelative:code.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD139511-BBF5-4D79-912C-8D2C82CC884B}|Code.DataAccess\\Code.DataAccess.csproj|c:\\users\\loq\\onedrive\\desktop\\code-facts-fun\\code.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD139511-BBF5-4D79-912C-8D2C82CC884B}|Code.DataAccess\\Code.DataAccess.csproj|solutionrelative:code.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E82FBF0-5D48-4F7E-A05C-C7FB1B050BDB}|Code_Facts_Fun\\Code_Facts_Fun.csproj|c:\\users\\loq\\onedrive\\desktop\\code-facts-fun\\code_facts_fun\\areas\\admin\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E82FBF0-5D48-4F7E-A05C-C7FB1B050BDB}|Code_Facts_Fun\\Code_Facts_Fun.csproj|solutionrelative:code_facts_fun\\areas\\admin\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code.DataAccess\\Migrations\\20250521121932_addImageUrlToDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Code.DataAccess\\Migrations\\20250521121932_addImageUrlToDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code.DataAccess\\Migrations\\20250521112801_addForeignKeyForClipProductRelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Code.DataAccess\\Migrations\\20250521112801_addForeignKeyForClipProductRelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E82FBF0-5D48-4F7E-A05C-C7FB1B050BDB}|Code_Facts_Fun\\Code_Facts_Fun.csproj|c:\\users\\loq\\onedrive\\desktop\\code-facts-fun\\code_facts_fun\\areas\\admin\\views\\library\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E82FBF0-5D48-4F7E-A05C-C7FB1B050BDB}|Code_Facts_Fun\\Code_Facts_Fun.csproj|solutionrelative:code_facts_fun\\areas\\admin\\views\\library\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E82FBF0-5D48-4F7E-A05C-C7FB1B050BDB}|Code_Facts_Fun\\Code_Facts_Fun.csproj|c:\\users\\loq\\onedrive\\desktop\\code-facts-fun\\code_facts_fun\\areas\\admin\\views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E82FBF0-5D48-4F7E-A05C-C7FB1B050BDB}|Code_Facts_Fun\\Code_Facts_Fun.csproj|solutionrelative:code_facts_fun\\areas\\admin\\views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E82FBF0-5D48-4F7E-A05C-C7FB1B050BDB}|Code_Facts_Fun\\Code_Facts_Fun.csproj|c:\\users\\loq\\onedrive\\desktop\\code-facts-fun\\code_facts_fun\\areas\\admin\\views\\movie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E82FBF0-5D48-4F7E-A05C-C7FB1B050BDB}|Code_Facts_Fun\\Code_Facts_Fun.csproj|solutionrelative:code_facts_fun\\areas\\admin\\views\\movie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E82FBF0-5D48-4F7E-A05C-C7FB1B050BDB}|Code_Facts_Fun\\Code_Facts_Fun.csproj|c:\\users\\loq\\onedrive\\desktop\\code-facts-fun\\code_facts_fun\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E82FBF0-5D48-4F7E-A05C-C7FB1B050BDB}|Code_Facts_Fun\\Code_Facts_Fun.csproj|solutionrelative:code_facts_fun\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E82FBF0-5D48-4F7E-A05C-C7FB1B050BDB}|Code_Facts_Fun\\Code_Facts_Fun.csproj|c:\\users\\loq\\onedrive\\desktop\\code-facts-fun\\code_facts_fun\\areas\\admin\\views\\library\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E82FBF0-5D48-4F7E-A05C-C7FB1B050BDB}|Code_Facts_Fun\\Code_Facts_Fun.csproj|solutionrelative:code_facts_fun\\areas\\admin\\views\\library\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E82FBF0-5D48-4F7E-A05C-C7FB1B050BDB}|Code_Facts_Fun\\Code_Facts_Fun.csproj|c:\\users\\loq\\onedrive\\desktop\\code-facts-fun\\code_facts_fun\\areas\\admin\\views\\library\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E82FBF0-5D48-4F7E-A05C-C7FB1B050BDB}|Code_Facts_Fun\\Code_Facts_Fun.csproj|solutionrelative:code_facts_fun\\areas\\admin\\views\\library\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD139511-BBF5-4D79-912C-8D2C82CC884B}|Code.DataAccess\\Code.DataAccess.csproj|c:\\users\\loq\\onedrive\\desktop\\code-facts-fun\\code.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD139511-BBF5-4D79-912C-8D2C82CC884B}|Code.DataAccess\\Code.DataAccess.csproj|solutionrelative:code.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD139511-BBF5-4D79-912C-8D2C82CC884B}|Code.DataAccess\\Code.DataAccess.csproj|c:\\users\\loq\\onedrive\\desktop\\code-facts-fun\\code.dataaccess\\repository\\irepository\\iclipsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD139511-BBF5-4D79-912C-8D2C82CC884B}|Code.DataAccess\\Code.DataAccess.csproj|solutionrelative:code.dataaccess\\repository\\irepository\\iclipsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD139511-BBF5-4D79-912C-8D2C82CC884B}|Code.DataAccess\\Code.DataAccess.csproj|c:\\users\\loq\\onedrive\\desktop\\code-facts-fun\\code.dataaccess\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD139511-BBF5-4D79-912C-8D2C82CC884B}|Code.DataAccess\\Code.DataAccess.csproj|solutionrelative:code.dataaccess\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD139511-BBF5-4D79-912C-8D2C82CC884B}|Code.DataAccess\\Code.DataAccess.csproj|c:\\users\\loq\\onedrive\\desktop\\code-facts-fun\\code.dataaccess\\repository\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD139511-BBF5-4D79-912C-8D2C82CC884B}|Code.DataAccess\\Code.DataAccess.csproj|solutionrelative:code.dataaccess\\repository\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD139511-BBF5-4D79-912C-8D2C82CC884B}|Code.DataAccess\\Code.DataAccess.csproj|c:\\users\\loq\\onedrive\\desktop\\code-facts-fun\\code.dataaccess\\migrations\\20250520214444_addproducttodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD139511-BBF5-4D79-912C-8D2C82CC884B}|Code.DataAccess\\Code.DataAccess.csproj|solutionrelative:code.dataaccess\\migrations\\20250520214444_addproducttodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250521121932_addImageUrlToDB.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code.DataAccess\\Migrations\\20250521121932_addImageUrlToDB.cs",
+              "RelativeDocumentMoniker": "Code.DataAccess\\Migrations\\20250521121932_addImageUrlToDB.cs",
+              "ToolTip": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code.DataAccess\\Migrations\\20250521121932_addImageUrlToDB.cs",
+              "RelativeToolTip": "Code.DataAccess\\Migrations\\20250521121932_addImageUrlToDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:19:32.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250521112801_addForeignKeyForClipProductRelation.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code.DataAccess\\Migrations\\20250521112801_addForeignKeyForClipProductRelation.cs",
+              "RelativeDocumentMoniker": "Code.DataAccess\\Migrations\\20250521112801_addForeignKeyForClipProductRelation.cs",
+              "ToolTip": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code.DataAccess\\Migrations\\20250521112801_addForeignKeyForClipProductRelation.cs",
+              "RelativeToolTip": "Code.DataAccess\\Migrations\\20250521112801_addForeignKeyForClipProductRelation.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T11:28:01.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code.Models\\Product.cs",
+              "RelativeDocumentMoniker": "Code.Models\\Product.cs",
+              "ToolTip": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code.Models\\Product.cs",
+              "RelativeToolTip": "Code.Models\\Product.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA/wCcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T11:22:56.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code_Facts_Fun\\Areas\\Admin\\Views\\Movie\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Code_Facts_Fun\\Areas\\Admin\\Views\\Movie\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code_Facts_Fun\\Areas\\Admin\\Views\\Movie\\Edit.cshtml",
+              "RelativeToolTip": "Code_Facts_Fun\\Areas\\Admin\\Views\\Movie\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T10:57:25.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code_Facts_Fun\\Areas\\Admin\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "Code_Facts_Fun\\Areas\\Admin\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code_Facts_Fun\\Areas\\Admin\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "Code_Facts_Fun\\Areas\\Admin\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA3wCMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:42:35.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code_Facts_Fun\\Areas\\Admin\\Views\\Movie\\Create.cshtml",
+              "RelativeDocumentMoniker": "Code_Facts_Fun\\Areas\\Admin\\Views\\Movie\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code_Facts_Fun\\Areas\\Admin\\Views\\Movie\\Create.cshtml",
+              "RelativeToolTip": "Code_Facts_Fun\\Areas\\Admin\\Views\\Movie\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T10:37:47.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code_Facts_Fun\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Code_Facts_Fun\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code_Facts_Fun\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Code_Facts_Fun\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwCIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T10:35:35.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code_Facts_Fun\\Areas\\Admin\\Views\\Library\\Index.cshtml",
+              "RelativeDocumentMoniker": "Code_Facts_Fun\\Areas\\Admin\\Views\\Library\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code_Facts_Fun\\Areas\\Admin\\Views\\Library\\Index.cshtml",
+              "RelativeToolTip": "Code_Facts_Fun\\Areas\\Admin\\Views\\Library\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T10:24:10.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code_Facts_Fun\\Areas\\Admin\\Views\\Library\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Code_Facts_Fun\\Areas\\Admin\\Views\\Library\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code_Facts_Fun\\Areas\\Admin\\Views\\Library\\Edit.cshtml",
+              "RelativeToolTip": "Code_Facts_Fun\\Areas\\Admin\\Views\\Library\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T10:24:00.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code_Facts_Fun\\Areas\\Admin\\Views\\Library\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Code_Facts_Fun\\Areas\\Admin\\Views\\Library\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code_Facts_Fun\\Areas\\Admin\\Views\\Library\\Delete.cshtml",
+              "RelativeToolTip": "Code_Facts_Fun\\Areas\\Admin\\Views\\Library\\Delete.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T10:23:51.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code_Facts_Fun\\Areas\\Admin\\Views\\Library\\Create.cshtml",
+              "RelativeDocumentMoniker": "Code_Facts_Fun\\Areas\\Admin\\Views\\Library\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code_Facts_Fun\\Areas\\Admin\\Views\\Library\\Create.cshtml",
+              "RelativeToolTip": "Code_Facts_Fun\\Areas\\Admin\\Views\\Library\\Create.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAcwEIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T10:23:41.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibraryController.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code_Facts_Fun\\Areas\\Admin\\Controllers\\LibraryController.cs",
+              "RelativeDocumentMoniker": "Code_Facts_Fun\\Areas\\Admin\\Controllers\\LibraryController.cs",
+              "ToolTip": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code_Facts_Fun\\Areas\\Admin\\Controllers\\LibraryController.cs",
+              "RelativeToolTip": "Code_Facts_Fun\\Areas\\Admin\\Controllers\\LibraryController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:00:28.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code.DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Code.DataAccess\\Repository\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code.DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "Code.DataAccess\\Repository\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:53:17.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Code.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "RelativeToolTip": "Code.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:52:44.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code.DataAccess\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Code.DataAccess\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code.DataAccess\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Code.DataAccess\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:50:32.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Code.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
+              "RelativeToolTip": "Code.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:50:05.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IClipsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code.DataAccess\\Repository\\IRepository\\IClipsRepository.cs",
+              "RelativeDocumentMoniker": "Code.DataAccess\\Repository\\IRepository\\IClipsRepository.cs",
+              "ToolTip": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code.DataAccess\\Repository\\IRepository\\IClipsRepository.cs",
+              "RelativeToolTip": "Code.DataAccess\\Repository\\IRepository\\IClipsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:49:43.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250520214444_AddProductToDB.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code.DataAccess\\Migrations\\20250520214444_AddProductToDB.cs",
+              "RelativeDocumentMoniker": "Code.DataAccess\\Migrations\\20250520214444_AddProductToDB.cs",
+              "ToolTip": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code.DataAccess\\Migrations\\20250520214444_AddProductToDB.cs",
+              "RelativeToolTip": "Code.DataAccess\\Migrations\\20250520214444_AddProductToDB.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:44:44.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Code.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\LOQ\\OneDrive\\Desktop\\Code-Facts-Fun\\Code.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Code.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAADqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:37:43.68Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
