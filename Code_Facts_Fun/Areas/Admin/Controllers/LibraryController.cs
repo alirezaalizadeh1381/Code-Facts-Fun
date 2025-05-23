@@ -3,6 +3,7 @@ using Code.DataAccess.Repository.IRepository;
 using Code.Models;
 using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Code.Models.ViewModel;
 
 namespace Code_Facts_Fun.Areas.Admin.Controllers
 {
@@ -23,30 +24,43 @@ namespace Code_Facts_Fun.Areas.Admin.Controllers
         [HttpGet]
     public IActionResult Create()
         {
-            IEnumerable<SelectListItem> ClipsList = _unitofwork.clips.GetAll().Select(u => new SelectListItem
-            {
-                Text = u.Name,
-                Value = u.Id.ToString()
-            });
 
             //ViewBag.Clips = ClipsList;
-            ViewData["Clips"] = ClipsList;
-            return View();
+            //ViewData["Clips"] = ClipsList;
+            ProductVM productVm = new()
+            {
+                ClipsList = _unitofwork.clips.GetAll().Select(u => new SelectListItem
+                {
+                    Text = u.Name,
+                    Value = u.Id.ToString()
+                }),
+                Product = new Product()
+            };
+            return View(productVm);
         }
         [HttpPost]
-    public IActionResult Create(Product product)
+    public IActionResult Create(ProductVM productvm)
         {
-            product.Id = 0;
-            product.Price = 0;
-            product.ISBN = "Wasrwes123";
+            //product.Product.Id = 0;
+            //product.Product.Price = 0;
+            //product.Product.ISBN = "Wasrwes123";
             if (ModelState.IsValid)
             {
-                _unitofwork.product.Add(product);
+                _unitofwork.product.Add(productvm.Product);
                 _unitofwork.Save();
                 TempData["success"] = "The product added successfully";
                 return RedirectToAction("Index");
             }
-            return View();
+            else
+            {
+                productvm.ClipsList = _unitofwork.clips.GetAll().Select(u => new SelectListItem
+                {
+                    Text = u.Name,
+                    Value = u.Id.ToString()
+                });
+                return View(productvm);
+            }
+            
         }
 
         [HttpGet]

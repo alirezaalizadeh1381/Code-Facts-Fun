@@ -36,3 +36,4 @@ C:\Users\LOQ\OneDrive\Desktop\Code-Facts-Fun\Code.DataAccess\obj\Debug\net8.0\re
 C:\Users\LOQ\OneDrive\Desktop\Code-Facts-Fun\Code.DataAccess\obj\Debug\net8.0\Code.DataAccess.pdb
 C:\Users\LOQ\OneDrive\Desktop\Code-Facts-Fun\Code.DataAccess\obj\Debug\net8.0\Code.DataAccess.genruntimeconfig.cache
 C:\Users\LOQ\OneDrive\Desktop\Code-Facts-Fun\Code.DataAccess\obj\Debug\net8.0\ref\Code.DataAccess.dll
+C:\Users\LOQ\OneDrive\Desktop\Code-Facts-Fun\Code.DataAccess\obj\Debug\net8.0\Code.DataAccess.sourcelink.json
